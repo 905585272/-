@@ -1,1 +1,55 @@
 
+<!DOCTYPE html>
+  <html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mr.Chen's Resume</title>
+  </head>
+  <body>
+    <div class="resume_title">
+      <h1>Mr.Chen's Resume</h1>
+    </div>
+    <div class="resume">
+      <div class="resume_picture">
+        <img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2834935617,4277417703&fm=26&gp=0.jpg"></img>
+      </div>
+      <div class="resume_name">
+        <span>Name :</span>
+        <span>Chen X X<span>
+      </div>
+      <div class="resume_age">
+        <span>Age :</span>
+        <span>23</span>
+      </div>
+      <div class="resume_contact_information">
+        <span>PhoneNumber :</span>
+        <span>158********</span><br>
+        <span>Email :</span>
+        <span>123456789@qq.com</span>
+      </div>
+      <div class="resume_education">
+        <span>undergraduate :</span>
+        <span>Baidu front end College</span>
+      </div>
+      <div class="resume_project_experience">
+        <span>Project experience :</span>
+        <div class="project_A">
+          <span>Project A :</span>
+          <div class="project_A_Content">
+            xxxxxx
+          </div>
+        </div>
+        <div class="project_B">
+          <span>Project B :</span>
+          <div class="project_B_Content">
+            xxxxxx
+          </div>
+        </div>
+      </div>
+      <p>If you are interested in me,please call me by my phone or my email.It's Online all the time!</p>
+    </div>
+   <script>
+    
+   </script>
+  </body>
+</html>
