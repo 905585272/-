@@ -1,4 +1,4 @@
-
+<!-- index html content -->
 <!DOCTYPE html>
   <html lang="zh-CN">
   <head>
@@ -53,3 +53,49 @@
    </script>
   </body>
 </html>
+
+<!-- css content -->
+.resume_title{
+  text-align: center;
+  color: 	#A9A9A9;
+}
+.resume{
+  border:5px solid #000000;
+  border-radius:45px;
+  background-color:	#FFFF00;
+}
+.resume_picture{
+  float:right;
+  margin-right:50px;
+  margin-top:50px;
+}
+.resume_name{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+.resume_age{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+.resume_contact_information{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+.resume_education{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+.resume_project_experience{
+  margin:20px;
+  padding:20px;
+  font-size:20px;
+}
+p{
+  font-size:20px;
+  margin:20px;
+  padding:20px;
+}
