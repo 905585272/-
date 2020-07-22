@@ -1,0 +1,39 @@
+.title{
+    height: 100px;
+    color: white;
+    background-color: #778899;
+    padding: 10px;
+}
+h1{
+    margin-left: 20px;
+}
+.base-information{
+    background-color: #D3D3D3;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 2px solid #D3D3D3;
+}
+.contact-information{
+    background-color: #D3D3D3;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 2px solid #D3D3D3;
+}
+.capability-description{
+    background-color: #D3D3D3;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 2px solid #D3D3D3;
+}
+.educational-experience{
+    background-color: #D3D3D3;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 2px solid #D3D3D3;
+}
+.project-experience{
+    background-color: #D3D3D3;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 2px solid #D3D3D3;
+}
