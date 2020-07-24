@@ -1,0 +1,159 @@
+.website-header{
+    background-color: #2F4F4F;
+    overflow: auto;
+}
+.header{
+    width: 960px;
+    margin: 0 auto;
+}
+.header-logo{
+    color: white;
+}
+.header-nav{
+    float: right;
+    margin-left: 10px;
+}
+a{
+    color: white;
+}
+.website-banner{
+    background-color: #32CD32;
+    overflow: auto;
+}
+.banner{
+    width: 960px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.banner1{
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: rgba(220,220,220,0.7);
+    color: #2fa72f;
+    margin-right: 10px;
+}
+.banner1:hover{
+    height: 10%;
+    background-color: rgba(220,220,220,0.9);
+}
+.banner2{
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: rgba(220,220,220,0.7);
+    color: #2fa72f;
+    margin-right: 10px;
+}
+.banner2:hover{
+    height: 10%;
+    background-color: rgba(220,220,220,0.9);
+}
+.banner3{
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: rgba(220,220,220,0.7);
+    color: #2fa72f;
+    margin-right: 10px;
+}
+.banner3:hover{
+    height: 10%;
+    background-color: rgba(220,220,220,0.9);
+}
+.banner4{
+    border: 1px solid #000000;
+    padding: 5px;
+    background-color: rgba(220,220,220,0.7);
+    color: #2fa72f;
+    margin-right: 10px;
+}
+.banner4:hover{
+    height: 10%;
+    background-color: rgba(220,220,220,0.9);
+}
+.website-navbar{
+    border-bottom: 1px solid #DCDCDC;
+    margin: 10px;
+}
+.navbar{
+    width: 960px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.navbar-home{
+    margin-right: 20px;
+}
+.navbar-profile{
+    margin-right: 20px;
+}
+.content{
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.content1{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content2{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content3{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content4{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content5{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content6{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content7{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content8{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content9{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+}
+.content10{
+    padding: 80px;
+    border: 1px solid #DCDCDC;
+    float: left;
+
+}
+.website-footer{
+    background-color: rgb(59, 114, 114);
+    margin: 10px;
+}
+.footer{
+    width: 960px;
+    margin: 0 auto;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 20px;
+}
