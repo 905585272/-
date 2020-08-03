@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Mr.Chen的简历</title>
+        <link rel="stylesheet" href="style_2.css">
+    </head>
+    <body>
+        <div class="title">
+            <h1>简历</h1>
+        </div>
+        <div class="base-information">
+            <h2>基本信息</h2>
+            <span><b>姓名&nbsp</b></span>
+            <span>Mr.Chen&nbsp&nbsp&nbsp&nbsp</span>
+            <span><b>性别&nbsp</b></span>
+            <span>男&nbsp&nbsp&nbsp&nbsp</span>
+            <span><b>应聘职位&nbsp</b></span>
+            <span>Web前端工程师</span>
+        </div>
+        <div class="contact-information">
+            <div class="contact-information-title">
+            <h2>联系方式</h2>
+            </div>
+            <span><b>手机&nbsp</b></span>
+            <span>12312341234&nbsp&nbsp&nbsp&nbsp</span>
+            <span><b>Email&nbsp</b></span>
+            <span><a href="#">joinefe@baidu.com</a>&nbsp&nbsp&nbsp&nbsp</span>
+            <span><b>个人主页&nbsp</b></span>
+            <span><a href="#">Github</a></span>
+        </div>
+        <div class="capability-description">
+            <h2>能力描述</h2>
+            <span><b>技术能力</b></span>
+            <p>熟悉掌握HTML,CSS,JavaScript</p>
+            <span><b>综合能力</b></span>
+            <p>良好的沟通，主动积极，努力勤奋</p>
+        </div>
+        <div class="educational-experience">
+            <h2>教育经历</h2>
+            <span><b>本科</b></span>
+            <p>百度前端技术学院小薇学院</p>
+            <span><b>研究生</b></span>
+            <p>百度前端技术学院大斌学院</p>
+        </div>
+        <div class="project-experience">
+            <h2>项目经历</h2>
+            <span><b>小度小度</b></span>
+            <p>作为前端工程师角色参与了ABC组件的开发</p>
+            <span><b>SAN Doc</b></span>
+            <p>作为文件工程师参与了SAN Doc编写</p>
+        </div>
+        <div class="function-content">
+            <div class="hello-function">
+                <p id="hello-name">请问你是谁呀？</p>
+                <input type="text" id="name-input" placeholder="请输入你的名字">
+                <button id="send-btn">点击确定</button>
+            </div>
+            <div class="secret-function">
+                <button id="secret-btn">点击一下，会有惊喜！</button>
+            </div>
+        </div>
+    </body>
+    <script>
+        document.getElementById("send-btn").onclick = function() {
+            document.getElementById("hello-name").innerHTML = 'Hello ' + document.getElementById("name-input").value;
+        }
+        document.getElementById("secret-btn").onclick = function(){
+            var i = 1.21;
+            alert("我来告诉你，其实我的生日是：" + i);
+            console.log(i);
+        }
+    </script>
+</html>
