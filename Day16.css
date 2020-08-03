@@ -1,0 +1,12 @@
+.title{
+    width: 200px;
+    height: 1000px;
+    float: left;
+    margin-right: 20px;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+}
+.function-content div{
+    margin: 20px;
+}
